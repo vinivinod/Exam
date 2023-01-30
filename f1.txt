@@ -1,0 +1,2 @@
+ git config --global user.name "vini"
+git config --global user.email "vinivinod2024@mca.ajce.in"
